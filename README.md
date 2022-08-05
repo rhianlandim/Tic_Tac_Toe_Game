@@ -1,4 +1,4 @@
- # Tic_Tac_Toe
+ # Tic_Tac_Toe_Game
 <p align="center">
   
 </p>
@@ -13,7 +13,7 @@
  ### Instalando dependencias
 `npm install`
 ### Rodando a aplicação
-`npm start`
+`yarn start`
 
 
 
